@@ -1,2 +1,2 @@
 # relational_database_sys_midterm_project
-This is the project for my Relational Database Sys class.
+This is the mid term project for my Relational Database Sys class. It involves using web scraping to create multiple csv files, which are then used to populate tables in a database, that was initialized, using SQLModel. I decided to use per game stats for every player that played during the 2022-2023 NBA season (those who logged stats), as well as a bio of each player (team, age, position).
